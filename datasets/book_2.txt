@@ -1,0 +1,14 @@
+Sherlock Holmes
+
+The adj_1 Stalker
+The case Holmes solved in year_1 seemed adj_2 at first, rather than criminal. A young governess working in location_1 was being followed
+by a woman on a mode_of_transport_1 . She had no rel_1 to consult on the matter so she connected Holmes. Sir weird_nm_1 , her employer
+paid her num_1 pounds  a year, a adj_3 for such a post. Holmes was deeply adj_8 and took the case adverb_1 .
+
+He first decided to observe events from mode_of_transport_2 . Just as the governess said a woman began to follow her. Then Holmes waited
+for her employer to leave before conducting a adj_4 search of the place.
+
+He found a nn_1 in the type_of_room_ . Suddenly, the woman appeared, and explained that she was ing_verb_1 the governess because her
+wicked rel_2 was planning to vb_1 the girl as she has just inherited the num_2 pounds, but did not know it yet.
+
+Holmes gave the man a adj_6 warning to cease his adj_7 scheme. The governess left the job an now works as a profession_1.

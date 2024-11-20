@@ -1,0 +1,11 @@
+Motion is defined as a _vb_1_ in  _nn_1_ s position with regard to _unit_of_measurement_1_. By _ing_verb_1_ the change in _adverb_1_
+coordinates and then _ing_verb_2_ it through the _body_part_1_ of an arbitrary _nn_2_, any object in motion can be _vb_1_
+with the _body_part_2_.
+We call _nn_3_ at rest when it does not _vb_2_ its position with regards to _unit_of_measurement_2_
+Translational motion is defined as the _vb_3_ of all points of a _ing_verb_2_ body along the same line or _location_1_.
+There is no change in an _nn_3_ s orientation relative to a fixed point when it is undergoing _vb_2_ motion.
+For instance , a train on its tracks, a _nn_4_ walking along the _location_2_, _plural_noun_1_ flying
+ across the _type_of_room_1_ and so on.
+A body is considered to be _ing_verb_3_ translational motion when it is _past_verb_1_or _past_verb_2_ from one _location_1_ to another. I
+In this sort of motion, all _location_2_ of the _body_part_2_ have the same _adj_1_ and direction of _adj_2_ and accelerations
+at all times.

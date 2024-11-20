@@ -1,0 +1,5 @@
+My mom's recipe for cake
+
+First, preheat the oven to num_1 degrees. Then vb_1 num_2 animal_1 egg(s) with a unit_of_measurement_1 of liquid_type_1 .
+Next add num_3 tablespoon(s) of baking soda and mix with eggs and liquid_type_1 until it reaches a adj_1 texture.
+Then pour into a num_4 x num_5 pan and bake for num_6 minutes or until the cake is adj_2.
